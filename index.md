@@ -2,7 +2,7 @@
 layout: default
 ---
 
-- I am an Assistant Professor at Xiamen University. 
+**Welcome to my homepage!** 
 - My research focuses on experimental economics and behavioral finance. 
 - Research topics I have worked on: FinTech behavior, double auction, gender equlity, crime deterrance
 
