@@ -6,6 +6,7 @@ layout: default
 - My research focuses on experimental economics and behavioral finance. 
 - Research topics I have worked on: FinTech behavior, double auction, gender equlity, crime deterrance
 
+
 ## Employment
 - Assistant professor, Department of Finance, School of Economics, The Wang Yanan Institute for Studies in Economics, Xiamen University
 
