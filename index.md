@@ -5,6 +5,7 @@ layout: default
 **Welcome to my homepage!** 
 - My research focuses on experimental economics and behavioral finance. 
 - Research topics I have worked on: FinTech behavior, double auction, gender equlity, crime deterrance
+- [Google Schoalr](https://scholar.google.com/citations?user=3MKaiOcAAAAJ&hl) [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4260154)
 
 
 ## Employment
