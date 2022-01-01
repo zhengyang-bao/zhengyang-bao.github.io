@@ -7,7 +7,14 @@ layout: default
 
 
 ## Education
--Ph.D. in Economics, Monash University 2017-2020
+- Ph.D. in Economics, Monash University, 2017-2020
+  - Advisors: Andreas Leibbrandt, Lata Gangadharan, Matthew Leister  
+- Visiting Ph.D. student, University of Chicago, 2019
+  - Advisor: John List
+- Bachelor of Econometrics (Honors class I), University of Queensland, 2015
+- Bachelor of Economics, University of Queensland, 2012-2014
+- Bachelor of Finance, Shandong University, 2010-2014
+
 
 ## Research papers
 
