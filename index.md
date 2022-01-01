@@ -6,6 +6,9 @@ layout: default
 - My research focuses on experimental economics and behavioral finance. 
 
 
+## Education
+-Ph.D. in Economics, Monash University 2017-2020
+
 ## Research papers
 
 - [Do regulations work? A comprehensive analysis of price limits and trading restrictions in experimental asset markets with deterministic and stochastic fundamental values](https://www.sciencedirect.com/science/article/pii/S016726812030233X), joint with Kenan Kalaycı, Andreas Leibbrandt, Carlos Oyarzun. **Journal of Economic Behavior & Organization**, 2020, 178: 59-84.
