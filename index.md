@@ -33,3 +33,7 @@ layout: default
 ## Media interviews
 - [Discussions on Qianhai Special Economic Zone](https://news.cgtn.com/news/2021-09-20/Expert-Shenzhen-s-Qianghai-offers-opportunities-for-HK-13Iyp1gpoGs/index.html), CGTN
 - [Discussions on the development of Xiamen](https://m.weibo.cn/status/4716940611813977?wm=3333_2001&from=10BC293010&sourcetype=weixin), CGTN
+
+## Personal
+- I like classical music. I am a pianist and flutist. My favorite composers are Beethoven, Chopin, and Mozart.
+- I like outdoor activities.
