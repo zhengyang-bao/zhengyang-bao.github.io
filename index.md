@@ -9,7 +9,7 @@ layout: default
 
 
 ## Employment
-- Assistant professor, Department of Finance, School of Economics, The Wang Yanan Institute for Studies in Economics, Xiamen University
+- Assistant professor, Department of Finance, School of Economics, The Wang Yanan Institute for Studies in Economics, Xiamen University, 2021-2023
 
 
 ## Education
