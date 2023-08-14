@@ -9,7 +9,7 @@ layout: default
 
 
 ## Employment
-- Assistant professor, Department of Finance, School of Economics, The Wang Yanan Institute for Studies in Economics, Xiamen University, 2021-2023.11
+- Assistant professor, Department of Finance, School of Economics, The Wang Yanan Institute for Studies in Economics, Xiamen University, 2021-2023
 
 
 ## Education
@@ -30,6 +30,10 @@ layout: default
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3734770)] [[Internet Appendix](https://drive.google.com/file/d/1xmnwf_dNR22ohyOeyFoZBCG_6OGv9Gvm/view?usp=sharing)] [[JFQA COVID Symposium](https://player.mediaamp.io/p/U8-EDC/x3q6FTruIMqL/embed/select/media/seU2G5zFXY7m?form=html)] [[VoxChina](http://voxchina.org/show-3-241.html)] [[Featured in Patrick T. Harker's speech](https://www.philadelphiafed.org/-/media/frbp/assets/institutional/speeches/harker/2022/08-03-22-fintech.pdf)]
 - [Do regulations work? A comprehensive analysis of price limits and trading restrictions in experimental asset markets with deterministic and stochastic fundamental values](https://www.sciencedirect.com/science/article/pii/S016726812030233X), joint with Kenan Kalaycı, Andreas Leibbrandt, Carlos Oyarzun. **Journal of Economic Behavior & Organization**, 2020, 178: 59-84.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3916604)]
+
+## Editorial activities
+- Associate Editor, Humanities and Social Sciences Communications, 2023-
+
 
 ## Media interviews
 - [Discussions on Qianhai Special Economic Zone](https://news.cgtn.com/news/2021-09-20/Expert-Shenzhen-s-Qianghai-offers-opportunities-for-HK-13Iyp1gpoGs/index.html), CGTN
