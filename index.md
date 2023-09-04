@@ -23,8 +23,6 @@ layout: default
 
 
 ## Publications
-- [Tournaments with Safeguards: A Blessing or a Curse for Women](https://authors.elsevier.com/sd/article/S0167-2681(23)00255-X), joint with Andreas Leibbrandt. **Journal of Economic Behavior & Organization**, 2023+.
-- [Gender-specific Favoritism in Science](https://authors.elsevier.com/sd/article/S0167-2681(23)00244-5), joint with Difang Huang. **Journal of Economic Behavior & Organization**, 2023+.
 - [Reform scientific elections to improve gender equality](https://doi.org/10.1038/s41562-022-01322-w), joint with Difang Huang. **Nature Human Behaviour**, 2022.
 - [Shadow Banking in a Crisis: Evidence from FinTech During COVID-19](https://doi.org/10.1017/S0022109021000430), joint with Difang Huang. **Journal of Financial and Quantitative Analysis**, 2021, 56(7): 2320–2355.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3734770)] [[Internet Appendix](https://drive.google.com/file/d/1xmnwf_dNR22ohyOeyFoZBCG_6OGv9Gvm/view?usp=sharing)] [[JFQA COVID Symposium](https://player.mediaamp.io/p/U8-EDC/x3q6FTruIMqL/embed/select/media/seU2G5zFXY7m?form=html)] [[VoxChina](http://voxchina.org/show-3-241.html)] [[Featured in Patrick T. Harker's speech](https://www.philadelphiafed.org/-/media/frbp/assets/institutional/speeches/harker/2022/08-03-22-fintech.pdf)]
