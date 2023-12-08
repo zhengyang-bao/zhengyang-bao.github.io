@@ -4,7 +4,7 @@ layout: default
 
 **Welcome to my homepage!** 
 - My research focuses on experimental and behavioral economics and finance. 
-- Research topics I have worked on: FinTech behavior, asset market experiment, gender equlity, crime deterrance
+- Research topics I have worked on: FinTech, asset market experiment, gender equlity, crime deterrance
 - [Google Scholar](https://scholar.google.com/citations?user=3MKaiOcAAAAJ&hl) &nbsp;&nbsp;&nbsp;   [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4260154)
 
 
