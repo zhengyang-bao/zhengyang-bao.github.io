@@ -9,7 +9,8 @@ layout: default
 
 
 ## Employment
-- Assistant professor, Department of Finance, School of Economics, The Wang Yanan Institute for Studies in Economics, Xiamen University, 2021-2023
+- Senior lecturer, Department of Banking and Finance, Monash University, 2023-
+- Assistant professor, Department of Finance, School of Economics, Xiamen University, 2021-2023
 
 
 ## Education
@@ -23,6 +24,8 @@ layout: default
 
 
 ## Publications
+- [Tournaments with safeguards: A blessing or a curse for women?](https://www.sciencedirect.com/science/article/pii/S016726812300255X?via%3Dihub), joint with Andreas Leibbrandt. **Journal of Economic Behavior & Organization**, 2023+.
+- [Gender-specific favoritism in science](https://www.sciencedirect.com/science/article/pii/S0167268123002445), joint with Difang Huamg. **Journal of Economic Behavior & Organization**, 2023+.
 - [Reform scientific elections to improve gender equality](https://doi.org/10.1038/s41562-022-01322-w), joint with Difang Huang. **Nature Human Behaviour**, 2022.
 - [Shadow Banking in a Crisis: Evidence from FinTech During COVID-19](https://doi.org/10.1017/S0022109021000430), joint with Difang Huang. **Journal of Financial and Quantitative Analysis**, 2021, 56(7): 2320–2355.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3734770)] [[Internet Appendix](https://drive.google.com/file/d/1xmnwf_dNR22ohyOeyFoZBCG_6OGv9Gvm/view?usp=sharing)] [[JFQA COVID Symposium](https://player.mediaamp.io/p/U8-EDC/x3q6FTruIMqL/embed/select/media/seU2G5zFXY7m?form=html)] [[VoxChina](http://voxchina.org/show-3-241.html)] [[Featured in Patrick T. Harker's speech](https://www.philadelphiafed.org/-/media/frbp/assets/institutional/speeches/harker/2022/08-03-22-fintech.pdf)]
