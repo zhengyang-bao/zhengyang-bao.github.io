@@ -5,12 +5,6 @@ layout: default
 **Welcome to my homepage!** 
 - My research focuses on experimental and behavioral economics and finance. 
 - Research topics I have worked on: FinTech, asset market experiment, gender equlity, crime deterrance
-- [Google Scholar](https://scholar.google.com/citations?user=3MKaiOcAAAAJ&hl) &nbsp;&nbsp;&nbsp;   [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4260154)
-
-
-## Employment
-- Senior lecturer, Department of Banking and Finance, Monash University, 2023-
-- Assistant professor, Department of Finance, School of Economics, Xiamen University, 2021-2023
 
 
 ## Education
