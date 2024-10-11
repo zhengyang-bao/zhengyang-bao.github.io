@@ -5,7 +5,7 @@ layout: default
 **Welcome to my homepage!** 
 - My research focuses on experimental and behavioral economics and finance. 
 - Research topics I have worked on: FinTech, asset market experiment, gender equlity, crime deterrance
-
+- [Google Scholar](https://scholar.google.com/citations?user=3MKaiOcAAAAJ&hl) [Monash Website](https://research.monash.edu/en/persons/leo-bao)
 
 ## Employment
 - Monash University, 2023-
