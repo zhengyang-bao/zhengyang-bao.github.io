@@ -32,7 +32,7 @@ layout: default
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3916604)]
 
 ## Editorial activities
-- Associate Editor, Humanities and Social Sciences Communications (published by Springer Nature), 2023-
+- Associate Editor, Humanities and Social Sciences Communications (published by Springer Nature), 2023-2024
 
 
 ## Media interviews
