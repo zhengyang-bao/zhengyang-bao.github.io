@@ -23,7 +23,7 @@ layout: default
 
 ## Publications
 - [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://doi.org/10.1287/mnsc.2022.02787), joint with Difang Huang, Chen Lin. **Management Science**, 2024+.
-- - [Effects of lockdowns in shaping socioeconomic behaviors](https://www.pnas.org/doi/10.1073/pnas.2405934121), joint with Jingcun Cao, Lata Gangadharan, Difang Huang, Chen Lin. **Proceedings of the National Academy of Sciences (PNAS)**, 2024+.
+- [Effects of lockdowns in shaping socioeconomic behaviors](https://www.pnas.org/doi/10.1073/pnas.2405934121), joint with Jingcun Cao, Lata Gangadharan, Difang Huang, Chen Lin. **Proceedings of the National Academy of Sciences (PNAS)**, 2024, 121(43).
 - [Tournaments with safeguards: A blessing or a curse for women?](https://www.sciencedirect.com/science/article/pii/S016726812300255X?via%3Dihub), joint with Andreas Leibbrandt. **Journal of Economic Behavior & Organization**, 2024.
 - [Gender-specific favoritism in science](https://www.sciencedirect.com/science/article/pii/S0167268123002445), joint with Difang Huang. **Journal of Economic Behavior & Organization**, 2024.
 - [Reform scientific elections to improve gender equality](https://doi.org/10.1038/s41562-022-01322-w), joint with Difang Huang. **Nature Human Behaviour**, 2022.
