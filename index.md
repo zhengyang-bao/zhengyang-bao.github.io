@@ -22,14 +22,14 @@ layout: default
 
 
 ## Publications
-- [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://doi.org/10.1287/mnsc.2022.02787), joint with Difang Huang, Chen Lin. **Management Science**, 2024+.
-- [Effects of lockdowns in shaping socioeconomic behaviors](https://www.pnas.org/doi/10.1073/pnas.2405934121), joint with Jingcun Cao, Lata Gangadharan, Difang Huang, Chen Lin. **Proceedings of the National Academy of Sciences (PNAS)**, 2024, 121(43).
-- [Tournaments with safeguards: A blessing or a curse for women?](https://www.sciencedirect.com/science/article/pii/S016726812300255X?via%3Dihub), joint with Andreas Leibbrandt. **Journal of Economic Behavior & Organization**, 2024.
-- [Gender-specific favoritism in science](https://www.sciencedirect.com/science/article/pii/S0167268123002445), joint with Difang Huang. **Journal of Economic Behavior & Organization**, 2024.
-- [Reform scientific elections to improve gender equality](https://doi.org/10.1038/s41562-022-01322-w), joint with Difang Huang. **Nature Human Behaviour**, 2022.
-- [Shadow Banking in a Crisis: Evidence from FinTech During COVID-19](https://doi.org/10.1017/S0022109021000430), joint with Difang Huang. **Journal of Financial and Quantitative Analysis**, 2021, 56(7): 2320–2355.
+- [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://doi.org/10.1287/mnsc.2022.02787), joint with Difang Huang, Chen Lin. <i>Management Science</i>, 2024+.
+- [Effects of lockdowns in shaping socioeconomic behaviors](https://www.pnas.org/doi/10.1073/pnas.2405934121), joint with Jingcun Cao, Lata Gangadharan, Difang Huang, Chen Lin. <i>Proceedings of the National Academy of Sciences (PNAS)</i>, 2024, 121(43).
+- [Tournaments with safeguards: A blessing or a curse for women?](https://www.sciencedirect.com/science/article/pii/S016726812300255X?via%3Dihub), joint with Andreas Leibbrandt. <i>Journal of Economic Behavior & Organization</i>, 2024.
+- [Gender-specific favoritism in science](https://www.sciencedirect.com/science/article/pii/S0167268123002445), joint with Difang Huang. <i>Journal of Economic Behavior & Organization</i>, 2024.
+- [Reform scientific elections to improve gender equality](https://doi.org/10.1038/s41562-022-01322-w), joint with Difang Huang. <i>Nature Human Behaviour</i>, 2022.
+- [Shadow Banking in a Crisis: Evidence from FinTech During COVID-19](https://doi.org/10.1017/S0022109021000430), joint with Difang Huang. <i>Journal of Financial and Quantitative Analysis</i>, 2021, 56(7): 2320–2355.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3734770)] [[Internet Appendix](https://drive.google.com/file/d/1xmnwf_dNR22ohyOeyFoZBCG_6OGv9Gvm/view?usp=sharing)] [[JFQA COVID Symposium](https://player.mediaamp.io/p/U8-EDC/x3q6FTruIMqL/embed/select/media/seU2G5zFXY7m?form=html)] [[VoxChina](http://voxchina.org/show-3-241.html)] [[Featured in Patrick T. Harker's speech](https://www.philadelphiafed.org/-/media/frbp/assets/institutional/speeches/harker/2022/08-03-22-fintech.pdf)]
-- [Do regulations work? A comprehensive analysis of price limits and trading restrictions in experimental asset markets with deterministic and stochastic fundamental values](https://www.sciencedirect.com/science/article/pii/S016726812030233X), joint with Kenan Kalaycı, Andreas Leibbrandt, Carlos Oyarzun. **Journal of Economic Behavior & Organization**, 2020, 178: 59-84.
+- [Do regulations work? A comprehensive analysis of price limits and trading restrictions in experimental asset markets with deterministic and stochastic fundamental values](https://www.sciencedirect.com/science/article/pii/S016726812030233X), joint with Kenan Kalaycı, Andreas Leibbrandt, Carlos Oyarzun. <i>Journal of Economic Behavior & Organization</i>, 2020, 178: 59-84.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3916604)]
 
 ## Editorial activities
