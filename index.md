@@ -32,9 +32,6 @@ layout: default
 - [Do regulations work? A comprehensive analysis of price limits and trading restrictions in experimental asset markets with deterministic and stochastic fundamental values](https://www.sciencedirect.com/science/article/pii/S016726812030233X), joint with Kenan Kalaycı, Andreas Leibbrandt, Carlos Oyarzun. <i>Journal of Economic Behavior & Organization</i>, 2020, 178: 59-84.
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3916604)]
 
-## Editorial activities
-- Associate Editor, Humanities and Social Sciences Communications (published by Springer Nature), 2023-2024
-
 
 ## Media interviews
 - [Discussions on Qianhai Special Economic Zone](https://news.cgtn.com/news/2021-09-20/Expert-Shenzhen-s-Qianghai-offers-opportunities-for-HK-13Iyp1gpoGs/index.html), CGTN
