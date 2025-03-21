@@ -22,7 +22,7 @@ layout: default
 
 
 ## Publications
-- [Deterrance in Networks](https://doi.org/10.1016/j.geb.2025.02.001), joint with Lata Gangadharan, C. Matthew Leister. <i>Games and Economic Behavior</i>, 2025+.
+- [Deterrance in Networks](https://doi.org/10.1016/j.geb.2025.02.001), joint with Lata Gangadharan, C. Matthew Leister. <i>Games and Economic Behavior</i>, 2025, 150: 501-517.
 - [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://doi.org/10.1287/mnsc.2022.02787), joint with Difang Huang, Chen Lin. <i>Management Science</i>, 2025+.
 - [Effects of lockdowns in shaping socioeconomic behaviors](https://www.pnas.org/doi/10.1073/pnas.2405934121), joint with Jingcun Cao, Lata Gangadharan, Difang Huang, Chen Lin. <i>Proceedings of the National Academy of Sciences (PNAS)</i>, 2024, 121(43).
 - [Tournaments with safeguards: A blessing or a curse for women?](https://www.sciencedirect.com/science/article/pii/S016726812300255X?via%3Dihub), joint with Andreas Leibbrandt. <i>Journal of Economic Behavior & Organization</i>, 2024, 221: 292-306.
