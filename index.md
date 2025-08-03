@@ -34,8 +34,8 @@ layout: default
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3916604)]
 
 ## Student supervision
-- [2025] Ziquan Zheng, MCom, field: behavioural and household finance, placement: Aalto PhD in Finance
 - [2028 (expected)], Ruize Sun, PhD, field: theory and fintech
+- [2025] Ziquan Zheng, MCom, field: behavioural and household finance, placement: Aalto PhD in Finance
 
 ## Media interviews
 - [Discussions on Qianhai Special Economic Zone](https://news.cgtn.com/news/2021-09-20/Expert-Shenzhen-s-Qianghai-offers-opportunities-for-HK-13Iyp1gpoGs/index.html), CGTN
