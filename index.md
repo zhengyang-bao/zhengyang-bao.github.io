@@ -22,6 +22,8 @@ layout: default
 
 
 ## Publications
+- [Gender differences in reactions to loan collection mechanisms: A large-scale natural field experiment](https://doi.org/10.1016/j.jfi.2025.101184), joint with Difang Huang. <i>Journal of Financial Intermediation</i>, 2026+.
+- [Gender wage gaps in Chinese corporate hierarchies: low at the top, higher at the bottom](https://doi.org/10.1177/03128962251347141), joint with Conggang Li, Dongxu Li. <i>Australian Journal of Management</i>, 2025.
 - [Deterrance in Networks](https://doi.org/10.1016/j.geb.2025.02.001), joint with Lata Gangadharan, C. Matthew Leister. <i>Games and Economic Behavior</i>, 2025, 150: 501-517.
 - [Can Artificial Intelligence Improve Gender Equality? Evidence from a Natural Experiment](https://doi.org/10.1287/mnsc.2022.02787), joint with Difang Huang, Chen Lin. <i>Management Science</i>, 2025+.
 - [Effects of lockdowns in shaping socioeconomic behaviors](https://www.pnas.org/doi/10.1073/pnas.2405934121), joint with Jingcun Cao, Lata Gangadharan, Difang Huang, Chen Lin. <i>Proceedings of the National Academy of Sciences (PNAS)</i>, 2024, 121(43).
@@ -34,6 +36,7 @@ layout: default
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3916604)]
 
 ## Student supervision
+- [2029 (expected)], Zili Dong, PhD, field: TBD
 - [2028 (expected)], Ruize Sun, PhD, field: theory and fintech
 - [2025] Ziquan Zheng, MCom, field: behavioural and household finance, placement: Aalto PhD in Finance
 
