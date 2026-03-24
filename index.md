@@ -8,7 +8,7 @@ layout: default
 - [Google Scholar](https://scholar.google.com/citations?user=3MKaiOcAAAAJ&hl) [Monash Website](https://research.monash.edu/en/persons/leo-bao)
 
 ## Employment
-- Senior lecturer, Department of Banking and Finance, Monash University, 2023-
+- Senior Lecturer, Department of Banking and Finance, Monash University, 2023-
 - Assistant Professor, Xiamen University, 2021-2023
 
 ## Education
