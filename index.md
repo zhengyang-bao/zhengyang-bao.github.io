@@ -3,8 +3,8 @@ layout: default
 ---
 
 **Welcome to my homepage!** 
-- My research focuses on experimental and behavioral economics and finance. 
-- Research topics I have worked on: FinTech, asset market experiment, gender equlity, crime deterrance
+- My research examines how emerging technologies shape individual behavior and social welfare. 
+- Research topics I have worked on: Fintech (including AI, blockchain, cryptocurrencies, digital payments, and crowdfunding), equality and inclusion, and crime deterrence.
 - [Google Scholar](https://scholar.google.com/citations?user=3MKaiOcAAAAJ&hl) [Monash Website](https://research.monash.edu/en/persons/leo-bao)
 
 ## Employment
@@ -37,7 +37,7 @@ layout: default
   - [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3916604)]
 
 ## Student supervision
-- [2029 (expected)], Zili Dong, PhD, field: TBD
+- [2030 (expected)], Zili Dong, PhD, field: TBD
 - [2028 (expected)], Ruize Sun, PhD, field: theory and fintech
 - [2025] Ziquan Zheng, MCom, field: behavioural and household finance, placement: Aalto PhD in Finance
 
