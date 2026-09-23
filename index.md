@@ -20,6 +20,9 @@ layout: default
 - Bachelor of Economics, University of Queensland, 2012-2014
 - Bachelor of Finance, Shandong University, 2010-2014
 
+## Working papers
+- Does Fintech Adoption Lead to Skill Erosion?, joint with Fangyu Zhao, Jialiang Zhu. R&R 
+
 
 ## Publications
 - [Gender differences in reactions to loan collection mechanisms: A large-scale natural field experiment](https://doi.org/10.1016/j.jfi.2025.101184), joint with Difang Huang. <i>Journal of Financial Intermediation</i>, 2026.
