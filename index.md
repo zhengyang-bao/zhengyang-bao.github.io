@@ -22,6 +22,11 @@ layout: default
 
 ## Working papers
 - Does Fintech Adoption Lead to Skill Erosion?, joint with Fangyu Zhao, Jialiang Zhu. R&R 
+- Algorithmic Advice in Markets with Complex Goods, joint with Kenan Kalayci, Ruize Sun.
+- Blockchain-Mediated Information Sharing, joint with Lata Gangadharan, Evgeny Lyandres, Ruize Sun.
+- Noisy Truth Beats Precise Lies, joint with Evgeny Lyandres, Ruize Sun.
+- I Will Pay Later, joint with Difang Huang, Ruize Sun, Xueting Wang.
+
 
 
 ## Publications
